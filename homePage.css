@@ -342,7 +342,7 @@ main {
 }
 
 .main-card-description {
-  width: 50%;
+  width: 35%;
   font-size: 0.8em;
 }
 
@@ -396,7 +396,7 @@ main {
   }
 
   .main-card-description p {
-    margin: 0.2em;
+    margin: 0.1em;
   }
 
   .main-btn {
