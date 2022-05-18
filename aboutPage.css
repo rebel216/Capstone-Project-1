@@ -85,7 +85,7 @@ a {
 /* headline styles */
 
 header {
-  background: #f8f9f9 url(../assets/main-mobile_bg.png);
+  background: #f8f9f9 url(assets/main-mobile_bg.png);
   text-align: center;
 }
 
@@ -416,7 +416,7 @@ main {
 }
 
 .past-event-card-1 {
-  background-image: url(../assets/annie-spratt-hCb3lIB8L8E-unsplash.jpg);
+  background-image: url(assets/annie-spratt-hCb3lIB8L8E-unsplash.jpg);
   background-color: var(--accent-color);
   background-blend-mode: multiply;
   background-size: cover;
@@ -430,7 +430,7 @@ main {
 }
 
 .past-event-card-2 {
-  background-image: url(../assets/campaign-creators-e6n7uoEnYbA-unsplash.jpg);
+  background-image: url(assets/campaign-creators-e6n7uoEnYbA-unsplash.jpg);
   background-color: var(--accent-color);
   background-blend-mode: multiply;
   background-size: cover;
