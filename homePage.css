@@ -29,7 +29,7 @@ h1 {
   color: var(--accent-color);
   line-height: 1em;
   letter-spacing: 2px;
-  background: url(../assets/Snapshoot_Portfolio.svg);
+  background: url(assets/Snapshoot_Portfolio.svg);
   background-color: orangered;
   background-blend-mode: multiply;
   -webkit-background-clip: text;
@@ -89,7 +89,7 @@ a {
 /* headline styles */
 
 .head-container {
-  background: #f8f9f9 url(../assets/scattered-forcefields.svg) 10% 100%;
+  background: #f8f9f9 url(assets/scattered-forcefields.svg) 10% 100%;
 }
 
 .head-paragraph-desc {
@@ -291,7 +291,7 @@ a {
 /* Main */
 
 main {
-  background: var(--primary-color) url(../assets/polka-dots.svg);
+  background: var(--primary-color) url(assets/polka-dots.svg);
   color: var(--secondary-color);
   display: flex;
   align-items: center;
@@ -342,7 +342,7 @@ main {
 }
 
 .main-card-description {
-  width: 50%;
+  width: 35%;
   font-size: 0.8em;
 }
 
@@ -396,7 +396,7 @@ main {
   }
 
   .main-card-description p {
-    margin: 0.2em;
+    margin: 0.1em;
   }
 
   .main-btn {
