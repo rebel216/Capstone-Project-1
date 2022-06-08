@@ -1,7 +1,7 @@
 Portfolio to Microverse course
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio Microverse
+# CLimate Change Conference APP
 
 > Capstone Project-1 using HTML, CSS, JavaScript
 
