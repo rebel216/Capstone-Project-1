@@ -30,7 +30,7 @@ To get a local copy up follow these simple example steps.
 
 Open a terminal or a git bash in the desired directory and run `https://github.com/rebel216/Capstone-Project-1`
 
-👤 **Author1**
+👤 **NeerajBhardwaj**
 
 - GitHub: [@rebel216](https://github.com/rebel216)
 - Twitter: [@rebel216](https://twitter.com/rebel216)
